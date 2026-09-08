@@ -185,6 +185,7 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 }
 .site-nav a:not(.btn):hover { color: var(--red); }
 .site-nav .btn { padding: 0.55em 1em; font-size: 0.9375rem; }
+.site-nav .btn-ink { color: #FFFFFF; } /* beats .site-nav a's ink color */
 @media (max-width: 720px) { .site-nav a:not(.btn) { display: none; } }
 
 /* ---------- Hero ---------- */
